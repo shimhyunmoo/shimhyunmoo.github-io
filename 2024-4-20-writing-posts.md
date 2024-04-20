@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello, world!"
 ---
 
-# Welcome
+ # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+ **Hello world**, this is my first blog post.
 
-I hope you like it!
+ I hope you like it!
